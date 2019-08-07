@@ -1,3 +1,5 @@
+Repurposed repo for group project.
+
 LV2.2
 =====
 
@@ -9,4 +11,4 @@ The workhorse of Portland State Aerospace Society, LV2.2 was successfully launch
 
 ## License
 
-Our digital reconstructions, graphics, and code are licensed under GNU GPL v3.
+The digital reconstructions, graphics, and code are licensed under GNU GPL v3.
